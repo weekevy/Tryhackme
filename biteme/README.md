@@ -1,5 +1,5 @@
 # Biteme[Tryhackme]
-___biteme capture the flag from tryhackme__
+__Biteme Tryhackme room, difficulty ***Meduim***__
 - access room through this link [Biteme](https://tryhackme.com/room/biteme)
 <p align="center">
   <img src="./assets/logo.png" alt="Logo" width="700"/>
