@@ -1,8 +1,8 @@
-# Biteme [Tryhackme]
-___***biteme*** capture the flag from tryhackme__
-- [ctf links](https://tryhackme.com/room/biteme)
+# Biteme[Tryhackme]
+___biteme capture the flag from tryhackme__
+- access room through this link [Biteme](https://tryhackme.com/room/biteme)
 <p align="center">
-  <img src="./assets/logo.png" alt="Logo" width="300"/>
+  <img src="./assets/logo.png" alt="Logo" width="700"/>
 </p>
 
 ## Recon
